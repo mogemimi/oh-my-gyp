@@ -1,0 +1,23 @@
+*.a
+*.exe
+*.filters
+*.lib
+*.pdb
+*.props
+*.sdf
+*.sln
+*.so
+*.suo
+*.user
+*.vcproj
+*.vcxproj
+*.xcodeproj
+.DS_Store
+/build
+/tools/gyp
+/tools/python
+
+# PyCharm
+.idea
+build/.idea
+tools/.idea
