@@ -11,7 +11,7 @@
           },
           'Link': {
             #'LinkIncremental': 'true', # /INCREMENTAL
-			'GenerateDebugInformation': 'true', # /DEBUG
+            'GenerateDebugInformation': 'true', # /DEBUG
           },
         },
         'xcode_settings': {
