@@ -1,7 +1,7 @@
 {
   'conditions': [['OS == "mac"', {'target_defaults': {
     'variables': {
-      'opencv3_dir_mac': '/usr/local/opt/opencv3/3.0.0',
+      'opencv3_dir_mac%': '/usr/local/opt/opencv3/3.0.0',
     },
     'include_dirs': [
       '<(opencv3_dir_mac)/include',

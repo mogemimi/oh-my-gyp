@@ -1,7 +1,7 @@
 {
   'conditions': [['OS == "mac"', {'target_defaults': {
     'variables': {
-      'libgit2_dir_mac': '/usr/local/opt/libgit2',
+      'libgit2_dir_mac%': '/usr/local/opt/libgit2',
     },
     'include_dirs': [
       '<(libgit2_dir_mac)/include',

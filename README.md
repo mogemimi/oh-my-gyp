@@ -9,7 +9,7 @@ First, make your project directory, and clone 'oh-my-gyp' from GitHub.
 
 ```shell
 mkdir hello && cd hello
-git clone git@github.com:mogemimi/oh-my-gyp.git
+git clone https://github.com/mogemimi/oh-my-gyp.git
 ```
 
 Second, add `main.cpp` and `hello.gyp` to your project directory.
